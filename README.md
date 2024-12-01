@@ -1,2 +1,2 @@
 # jQuery-validation-form
- A form validation made with jQuery in order to get familiar w the library.
+ A form validation made with jQuery to get familiar with the library.
